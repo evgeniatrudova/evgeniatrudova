@@ -1,8 +1,7 @@
 ___
 ![github](https://user-images.githubusercontent.com/68112616/142069319-234a0654-f76e-464e-b1da-561fa2905e60.png)
-___
-🌸/*Developer*/🌸 
- ___
+
+🌸🌸🌸  
  Hi!
  I am a front end dev student from Sweden.<br> 
  I am passionate about people building authentic connections and have courage to live their happiest lives. <br>
