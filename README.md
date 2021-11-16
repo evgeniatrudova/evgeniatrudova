@@ -1,7 +1,7 @@
 ___
 ![github](https://user-images.githubusercontent.com/68112616/142069319-234a0654-f76e-464e-b1da-561fa2905e60.png)
 ___
-🌸/*Developer/Artist*/🌸 
+🌸/*Developer*/🌸 
  ___
  Hi!
  I am a front end dev student from Sweden.<br> 
