@@ -1,9 +1,6 @@
 ![github](https://user-images.githubusercontent.com/68112616/142069319-234a0654-f76e-464e-b1da-561fa2905e60.png) 
  Hi! I am a front end dev student from Sweden.<br> 
  I am passionate about people building authentic connections and truly believe that we can add an incredible value to society through technology and kindness.<br> 
- <br>
-  My foundational education is in medicine and laboratory sciences.<br>
-  And I am learning CSS, React and all mighty Java Script right now. ಠ_ರೃ<br>
   <br>
   Check out my work and have a lovely day!<br>
   ___
