@@ -1,4 +1,4 @@
-<img width="340" alt="väderapp" src="https://user-images.githubusercontent.com/68112616/149300921-02deb5bf-6984-490f-bfe3-ab19bbe207cb.png">
+
 
 
  Hi! I am a front end dev student from Sweden.<br> 
@@ -8,7 +8,7 @@
   ___
   <h5>My work* inprogress</h5>
   --------
-  <a href="https://evgeniatrudova.github.io/FE-21-WeatherApp/"> <img src="https://user-images.githubusercontent.com/68112616/149300630-362c256d-471d-4910-a9e2-21c22b747f8e.png alt="" width="240" height="180" border="10"/></a>
+  <a href="https://evgeniatrudova.github.io/FE-21-WeatherApp/"> <img width="340" alt="väderapp" src="https://user-images.githubusercontent.com/68112616/149300921-02deb5bf-6984-490f-bfe3-ab19bbe207cb.png"></a>
   <a href=""> <img src="" alt="" width="240" height="180" border="10" /></a>
   <a href=""> <img src="" alt="" width="240" height="180" border="10" /></a>
   --------  
