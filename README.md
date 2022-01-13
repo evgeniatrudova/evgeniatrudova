@@ -1,7 +1,6 @@
 
 
- Hi! I am a front end dev student from Sweden.<br> 
- I am passionate about people building authentic connections and truly believe that we can add an incredible value to society through technology and kindness.<br> 
+ Hi! I am a front end dev student from Sweden.<br>  
   <br>
   Check out my work and have a lovely day!<br>
   ___
