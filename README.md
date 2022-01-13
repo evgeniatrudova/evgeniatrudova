@@ -9,7 +9,9 @@
   <h5>My work* inprogress</h5>
   --------
   <a href="https://evgeniatrudova.github.io/FE-21-WeatherApp/"> <img width="340" alt="väderapp" src="https://user-images.githubusercontent.com/68112616/149300921-02deb5bf-6984-490f-bfe3-ab19bbe207cb.png"></a>
-  <a href=""> <img src="" alt="" width="240" height="180" border="10" /></a>
+  <a href="https://evgeniatrudova.github.io/JS_academic_calculator/">  <img width="340" alt="calculator" src="https://user-images.githubusercontent.com/68112616/149301403-25eb51a6-4e50-4c2e-9950-6a4a87212dee.png"></a>
+ 
+
   <a href=""> <img src="" alt="" width="240" height="180" border="10" /></a>
   --------  
  
