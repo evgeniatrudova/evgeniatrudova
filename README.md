@@ -6,7 +6,7 @@
   ___
   <h5>My work* inprogress</h5>
   --------
-  <a href=""> <img src="" alt="" width="240" height="180" border="10" /></a>
+  <a href="https://evgeniatrudova.github.io/FE-21-WeatherApp/"> <img src="" alt="" width="240" height="180" border="10" /></a>
   <a href=""> <img src="" alt="" width="240" height="180" border="10" /></a>
   <a href=""> <img src="" alt="" width="240" height="180" border="10" /></a>
   --------  
