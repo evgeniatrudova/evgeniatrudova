@@ -1,12 +1,9 @@
 
 
- Hi! I am a front end dev student from Sweden.<br>  
-  <br>
-  Check out my work and have a lovely day!<br>
   ___
   
   <h5> My work </h5> 
-  <a href="https://evgeniatrudova.github.io/FE_21_firstjsgame_evgenia_trudova-/"> <img width="240" height="180" border="10" alt="tictac" src="https://user-images.githubusercontent.com/68112616/149302902-f1802630-966a-4d69-9e36-5051a1f81f84.png" /></a>
+
   
   
   ___
